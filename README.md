@@ -34,3 +34,4 @@ In the short video below, I demonstrate how this works in the live application.
 https://user-images.githubusercontent.com/1781212/133544470-cad5a55f-dd41-4b17-938f-318e7797f7c4.mp4
 
 
+One thing to note - You will want to use a variable instead of directly binding the "mygallery.selected.option" because when the app first loads, I've noticed that it triggers the component update multiple times, for each item in the gallery. Using a variable prevents this. I imagine there's a code way to do it but I have not had time to look into it. 
