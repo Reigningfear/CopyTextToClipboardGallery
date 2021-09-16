@@ -1,0 +1,9 @@
+
+.CanvizLLCPCF\.PCFCopyTextComponent > div {
+	display: flex;
+	align-items: flex-start;
+}
+.CanvizLLCPCF\.PCFCopyTextComponent .single {
+	align-items: normal;
+	display:none
+}

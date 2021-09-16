@@ -1,0 +1,19 @@
+2021-09-15 18:23:03.851 - Info	
+Packing C:\Users\reign\Documents\GitHub\Dexcom\PowerApps\PCF\CopyToClipboardComponent\CopyTextToClipboardComponent\obj\Debug\Metadata to bin\Debug\CopyTextToClipboardComponent.zip
+
+2021-09-15 18:23:03.860 - Info	Processing Component: Entities
+2021-09-15 18:23:03.863 - Info	Processing Component: Roles
+2021-09-15 18:23:03.866 - Info	Processing Component: Workflows
+2021-09-15 18:23:03.866 - Info	Processing Component: FieldSecurityProfiles
+2021-09-15 18:23:03.867 - Info	Processing Component: Templates
+2021-09-15 18:23:03.867 - Info	Processing Component: EntityMaps
+2021-09-15 18:23:03.868 - Info	Processing Component: EntityRelationships
+2021-09-15 18:23:03.872 - Info	Processing Component: OrganizationSettings
+2021-09-15 18:23:03.873 - Info	Processing Component: optionsets
+2021-09-15 18:23:03.874 - Info	Processing Component: CustomControls
+2021-09-15 18:23:03.879 - Info	 - CustomerAdvocacy.CopyTextToClipboardComponent
+2021-09-15 18:23:03.882 - Info	Processing Component: SolutionPluginAssemblies
+2021-09-15 18:23:03.883 - Info	Processing Component: EntityDataProviders
+2021-09-15 18:23:03.902 - Info	
+Unmanaged Pack complete.
+

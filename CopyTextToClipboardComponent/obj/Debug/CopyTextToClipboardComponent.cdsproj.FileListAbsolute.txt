@@ -1,0 +1,1 @@
+C:\Users\reign\Documents\GitHub\Dexcom\PowerApps\PCF\CopyToClipboardComponent\CopyTextToClipboardComponent\obj\Debug\CopyTextToClipboardComponent.cdsproj.CoreCompileInputs.cache
