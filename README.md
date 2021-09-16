@@ -23,3 +23,7 @@ In order for this to work for galleries, we will use the galleries "mygallery.se
 
 ![image](https://user-images.githubusercontent.com/1781212/133543958-019b3c36-a153-43d9-b3a4-be9d11af88b6.png)
 
+In the short video below, I demonstrate how this works in the live application.
+
+https://user-images.githubusercontent.com/1781212/133544354-a619c6e8-a7d0-42d4-b7a6-82aba2a2ce49.mp4
+
